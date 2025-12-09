@@ -18,7 +18,7 @@ npx playwright install chromium
 cd ../client
 npm install
 
-### 4. Configure Environment Variables
+### 3. Configure Environment Variables
 
 Navigate to the server directory and create a `.env` file:
 
